@@ -4,7 +4,7 @@
 
 The resource of paper "Clever Hans Effect Found in Automatic Detection of Alzheimer's Disease through Speech"
 
-This paper was awarded the 2024 ISCA Best Student Paper Award.
+This paper was awarded the [**2024 ISCA Best Student Paper Award**](https://interspeech2024.org/isca-best-student-paper-award-2024/)).
 
 # Please set up the environment first：
 
