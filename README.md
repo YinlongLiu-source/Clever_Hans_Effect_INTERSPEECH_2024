@@ -3,6 +3,7 @@
 [**paper link**]([https://arxiv.org/pdf/2406.07410](https://www.isca-archive.org/interspeech_2024/liu24f_interspeech.html)) 
 
 The resource of paper "Clever Hans Effect Found in Automatic Detection of Alzheimer's Disease through Speech"
+
 This paper was awarded the 2024 ISCA Best Student Paper Award.
 
 # Please set up the environment first：
